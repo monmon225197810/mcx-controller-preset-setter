@@ -34,17 +34,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-3. ブラウザで http://<ipaddress>:5000 にアクセスします
-
-## 貢献
-
-プルリクエストやイシューは大歓迎です。以下の手順で貢献できます：
-
-1. このリポジトリをフォーク
-2. 新しいブランチを作成 (`git checkout -b feature/amazing-feature`)
-3. 変更をコミット (`git commit -m 'Add some amazing feature'`)
-4. ブランチにプッシュ (`git push origin feature/amazing-feature`)
-5. プルリクエストを作成
+3. ブラウザで http://\<ipaddress\>:5000 にアクセスします
 
 ## ライセンス
 
