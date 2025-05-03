@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Black Box社のMCX-G2-CTRL-24マトリックスKVMスイッチャーのプリセットをブラウザから操作するためのWebアプリケーションです。
+マトリックスKVMスイッチャーのプリセットをブラウザから操作するためのWebアプリケーションです。
 
 ## 特徴
 
@@ -16,7 +16,7 @@ Black Box社のMCX-G2-CTRL-24マトリックスKVMスイッチャーのプリセ
 
 ```bash
 # リポジトリのクローン
-git clone https://github.com/your-username/mcx-controller-preset-setter.git
+git clone https://github.com/monmon225197810/mcx-controller-preset-setter.git
 cd mcx-controller-preset-setter
 
 # 仮想環境の作成と有効化
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-3. ブラウザで http://localhost:5000 にアクセスします
+3. ブラウザで http://<ipaddress>:5000 にアクセスします
 
 ## 貢献
 
@@ -52,11 +52,5 @@ python app.py
 
 ## 作者
 
-- Your Name - [GitHub](https://github.com/your-username)
+- Hiroki Nakamura - [GitHub](https://github.com/monmon225197810)
 
-## 謝辞
-
-- Black Box社のMCXコントローラー
-- Flaskフレームワーク
-- Bootstrap
-- HTMX 
